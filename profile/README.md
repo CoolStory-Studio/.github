@@ -7,8 +7,8 @@
 ---
 
 - [Artyom Fartygin](https://github.com/temikfart) **[C++ Enjoyers Team]**
-- [Roman Kornilov](https://github.com/c71n93) **[C++ Enjoyers Team]**
-- [Roman Korostinkiy](https://github.com/cadnev) **[C++ Enjoyers Team]**
+- [Roman Kornilov](https://github.com/cadnev) **[C++ Enjoyers Team]**
+- [Roman Korostinkiy](https://github.com/c71n93) **[C++ Enjoyers Team]**
 
 ### Projects
 ---
