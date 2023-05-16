@@ -1,4 +1,4 @@
-## Cool Story
+## CoolStory
 ---
 
 > Friends who enjoy doing things together sometimes
@@ -7,6 +7,7 @@
 ---
 
 - [Artyom Fartygin](https://github.com/temikfart) **[C++ Enjoyers Team]**
+- [Ilya Maximovskiy](https://github.com/sonodug)
 - [Roman Kornilov](https://github.com/cadnev) **[C++ Enjoyers Team]**
 - [Roman Korostinkiy](https://github.com/c71n93) **[C++ Enjoyers Team]**
 
